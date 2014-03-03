@@ -1,0 +1,14 @@
+---
+exclude: ['README.markdown']
+pygments: true
+safe: false
+
+name: Chato.ps
+description: 'Hubot As A Service'
+
+author: Wiredcraft
+email: info@wiredcraft.com
+url: http://wiredcraft.com/down
+
+#google_analytics: 'UA-48007565-1'
+#gauges: '52fb27825dd0531cc6001f16'
